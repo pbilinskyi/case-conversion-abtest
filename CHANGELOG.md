@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2021-01-28
+
+### Added
+
+- Exploratory Data Analysis section.
+
 ## [1.0.0] - 2021-01-27
 
 ### Added
